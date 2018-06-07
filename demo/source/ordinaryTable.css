@@ -1,0 +1,18 @@
+.table {
+  height: 500px;
+  overflow: auto;
+  border: 1px solid #ddd;
+  transform: translateZ(0);
+}
+table {
+  width: 0;
+  min-width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  table-layout: fixed;
+}
+table td {
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  height: 32px;
+}

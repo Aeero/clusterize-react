@@ -1,0 +1,7 @@
+.clusterize-table {
+  overflow: auto;
+  transform: translateZ(0);
+}
+.clusterize-table * {
+  box-sizing: border-box;
+}
